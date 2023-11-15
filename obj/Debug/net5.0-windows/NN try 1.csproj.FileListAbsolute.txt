@@ -1,0 +1,19 @@
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.exe
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.deps.json
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.runtimeconfig.json
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.runtimeconfig.dev.json
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.dll
+C:\Users\badan\source\repos\NN_try_1\NN try 1\bin\Debug\net5.0-windows\NN try 1.pdb
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.csproj.AssemblyReference.cache
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN_try_1.Form1.resources
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.csproj.GenerateResource.cache
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.AssemblyInfoInputs.cache
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.AssemblyInfo.cs
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.csproj.CoreCompileInputs.cache
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.dll
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\ref\NN try 1.dll
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.pdb
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\NN try 1.genruntimeconfig.cache
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\GestionaleBeB.DottedTimeline.resources
+C:\Users\badan\source\repos\NN_try_1\NN try 1\obj\Debug\net5.0-windows\refint\NN try 1.dll
